@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "F6ACzAPNz3CNSXG3oQ0s4ocgNNzm1szJmSS3WymzzjmgXvBgY3KrClRHFJEHLYFP8WsUMESpY5Vuhqhat67nkg==",
+  "success": true,
+  "projectFilePath": "F:\\GeekBrains_11.2023_InfoSec\\03. Знакомство с языками программирования (C#)\\HW-7\\HW-7.2\\HW-7.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brdgn\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\brdgn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\brdgn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\brdgn\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\7.0.14\\microsoft.netcore.app.host.win-x86.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\obj\Debug\net7.0\HW-7.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\obj\Debug\net7.0\HW-7.1.AssemblyInfoInputs.cache
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\obj\Debug\net7.0\HW-7.1.AssemblyInfo.cs
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\obj\Debug\net7.0\HW-7.1.csproj.CoreCompileInputs.cache
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\bin\Debug\net7.0\HW-7.1.exe
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\bin\Debug\net7.0\HW-7.1.deps.json
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\bin\Debug\net7.0\HW-7.1.runtimeconfig.json
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\bin\Debug\net7.0\HW-7.1.dll
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\bin\Debug\net7.0\HW-7.1.pdb
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\obj\Debug\net7.0\HW-7.1.dll
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\obj\Debug\net7.0\refint\HW-7.1.dll
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\obj\Debug\net7.0\HW-7.1.pdb
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\obj\Debug\net7.0\HW-7.1.genruntimeconfig.cache
+E:\GeekBrains_11.2023_InfoSec\03. Знакомство с языками программирования (C#)\HW-7\HW-7.1\obj\Debug\net7.0\ref\HW-7.1.dll
